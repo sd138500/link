@@ -1,6 +1,6 @@
 [
   {
     "متن": "کانال پشتیبانی اپلیکیشن پازل",
-    "لینک": "@pazzel_aplacation"
+    "لینک": "https://rubika.ir/pazzel_aplacation"
   }
 ]
